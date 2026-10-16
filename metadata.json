@@ -1,0 +1,6 @@
+{
+  "name": "Quad Engineers - Parent Company Portfolio Dashboard",
+  "description": "Centralized executive management dashboard and real-time financial performance feed for Quad Engineers subsidiaries and founder governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
